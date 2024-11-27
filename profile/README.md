@@ -1,4 +1,4 @@
-## workspaced.org
+## https://workspaced.org
 
 The easiest way to turn your markdown into web content.
 
