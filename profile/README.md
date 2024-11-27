@@ -1,6 +1,7 @@
 ## workspaced.org
 
-The easiest markdown hosting and sharing platform of your entire sad life 🔥
+The easiest way to turn your markdown into web content.
+
 <!--
 
 **Here are some ideas to get you started:**
