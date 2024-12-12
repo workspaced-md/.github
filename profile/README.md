@@ -1,6 +1,6 @@
 ## https://workspaced.org
 
-The easiest way to turn your markdown into web content.
+The easiest way to turn your markdown files into web content.
 
 <!--
 
